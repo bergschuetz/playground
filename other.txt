@@ -4,3 +4,6 @@ one more line, but different
 
 
 When you chose to be trapped that's a problem
+
+
+I edited a conflict in the repository
